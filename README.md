@@ -3,8 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 
----
-
 ### Linguagens e Tecnologias
 
 <img 
@@ -62,32 +60,37 @@
 
 ### 
 
-<div style="display: flex; gap: 10px;">
-    <p>
-  <img
+<!-- Bloco de estatísticas -->
+<div>
+  <img 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=placidev&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlaciDev&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  </p>
 </div>
 
-##
+<!-- Espaço entre as seções -->
+<br><br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+<!-- Bloco de botões -->
+<div>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:contatorafaballerini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/rafaballerini" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
-
-
 
 
