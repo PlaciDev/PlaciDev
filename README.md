@@ -19,6 +19,10 @@
 
 ### 
 
+<div align="center">
+  <h3>Contatos</h3>
+</div>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/bruno-placides-407046176/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunoplacidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
